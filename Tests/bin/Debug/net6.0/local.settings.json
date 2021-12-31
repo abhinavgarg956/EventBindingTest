@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "EventHubConnectionAppSetting": "Endpoint=sb://az4-eventns.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=9URiQwy9jVaZUFWs1u+5R3O4kjtCcBtqd9jOpYfclNY="
+
+  }
+}
